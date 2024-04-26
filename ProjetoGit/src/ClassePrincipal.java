@@ -5,6 +5,12 @@ public class ClassePrincipal {
 
 		System.out.println("Hello, World!");
 
+		
+		int idade = 18;
+		
+		if(idade > 18) {
+			System.out.println("Okay!");
+		}
 	}
 
 }
